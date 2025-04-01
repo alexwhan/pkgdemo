@@ -16,3 +16,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/alexwhan/pkgdemo, https://alexwhan.github.io/pkgdemo/
 BugReports: https://github.com/alexwhan/pkgdemo/issues
+RoxygenNote: 7.3.2
