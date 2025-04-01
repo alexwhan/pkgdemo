@@ -1,0 +1,16 @@
+Package: pkgdemo
+Type: Package
+Title: Demonstrates an R Package
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Alex", "Whan",
+      email = "alex.whan@csiro.au",
+      role = c("aut", "cre")
+    )
+  )
+Description: Shows people how easy it is to deploy a
+    package website.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
